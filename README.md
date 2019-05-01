@@ -1,2 +1,2 @@
 # courseera2
-Basic html example
+Basic html example about the restaurents
